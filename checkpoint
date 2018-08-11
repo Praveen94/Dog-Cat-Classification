@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/praveenramkumar/Documents/sentdex_tutorials/deep_learning/DogCatCNN/dogsvscats-0.001-2conv-basic-old.model"
+all_model_checkpoint_paths: "/Users/praveenramkumar/Documents/sentdex_tutorials/deep_learning/DogCatCNN/dogsvscats-0.001-2conv-basic-old.model"
